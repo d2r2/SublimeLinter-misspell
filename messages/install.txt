@@ -1,0 +1,7 @@
+SublimeLinter-misspell
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to misspell.
+
+For more information on installing and configuring this linter:
+
+https://github.com/d2r2/SublimeLinter-misspell
